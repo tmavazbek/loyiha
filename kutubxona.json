@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nomi": "O'tkan kunlar",
+        "muallif": "Abdulla Qodiriy",
+        "yil": 1925,
+        "janr": "Roman"
+    },
+    {
+        "id": 2,
+        "nomi": "Mehrobdan chayon",
+        "muallif": "Abdulla Qodiriy",
+        "yil": 1929,
+        "janr": "Roman"
+    },
+    {
+        "id": 3,
+        "nomi": "Sarob",
+        "muallif": "Abdulla Qahhor",
+        "yil": 1943,
+        "janr": "Roman"
+    }
+]
